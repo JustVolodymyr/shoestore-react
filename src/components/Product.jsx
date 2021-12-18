@@ -11,9 +11,9 @@ const Container = styled.div`
   border: 1px solid #eee;
   overflow: hidden;
   padding: 10px;
-  box-shadow: 2px 8px 20px #ddd;
+  box-shadow: 2px 2px 12px rgba(47,47,47,0.40);
   margin: 10px;
-  transition: 0.5s linear;
+  transition: 0.3s linear;
   &:hover {
     box-shadow: none;
   }
